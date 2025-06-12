@@ -1,0 +1,509 @@
+{
+    "model_id": "MOSTLY_AI/Medium",
+    "model_units": {
+        "embedder@tgt:t0/c0__cat": 12,
+        "embedder@tgt:t1/c1__cat": 10,
+        "embedder@tgt:t2/c2__nan": 2,
+        "embedder@tgt:t2/c2__E2": 2,
+        "embedder@tgt:t2/c2__E1": 10,
+        "embedder@tgt:t2/c2__E0": 10,
+        "embedder@tgt:t3/c3__E0": 4,
+        "embedder@tgt:t3/c3__E-1": 10,
+        "embedder@tgt:t3/c3__E-2": 10,
+        "embedder@tgt:t4/c4__cat": 8,
+        "embedder@tgt:t5/c5__cat": 5,
+        "embedder@tgt:t6/c6__cat": 4,
+        "embedder@tgt:t7/c7__E1": 8,
+        "embedder@tgt:t7/c7__E0": 10,
+        "embedder@tgt:t7/c7__E-1": 10,
+        "embedder@tgt:t8/c8__cat": 3,
+        "embedder@tgt:t9/c9__cat": 3,
+        "embedder@tgt:t10/c10__cat": 3,
+        "embedder@tgt:t11/c11__cat": 10,
+        "embedder@tgt:t12/c12__cat": 10,
+        "embedder@tgt:t13/c13__cat": 3,
+        "embedder@tgt:t14/c14__cat": 3,
+        "embedder@tgt:t15/c15__cat": 3,
+        "embedder@tgt:t16/c16__cat": 12,
+        "embedder@tgt:t17/c17__cat": 10,
+        "embedder@tgt:t18/c18__cat": 10,
+        "embedder@tgt:t19/c19__cat": 3,
+        "embedder@tgt:t20/c20__cat": 3,
+        "embedder@tgt:t21/c21__E2": 3,
+        "embedder@tgt:t21/c21__E1": 10,
+        "embedder@tgt:t21/c21__E0": 10,
+        "embedder@tgt:t22/c22__cat": 10,
+        "embedder@tgt:t23/c23__E2": 4,
+        "embedder@tgt:t23/c23__E1": 10,
+        "embedder@tgt:t23/c23__E0": 10,
+        "embedder@tgt:t24/c24__cat": 10,
+        "embedder@tgt:t25/c25__cat": 12,
+        "embedder@tgt:t26/c26__cat": 3,
+        "embedder@tgt:t27/c27__E2": 2,
+        "embedder@tgt:t27/c27__E1": 10,
+        "embedder@tgt:t27/c27__E0": 10,
+        "embedder@tgt:t28/c28__cat": 3,
+        "embedder@tgt:t29/c29__E2": 2,
+        "embedder@tgt:t29/c29__E1": 10,
+        "embedder@tgt:t29/c29__E0": 10,
+        "embedder@tgt:t30/c30__cat": 10,
+        "embedder@tgt:t31/c31__cat": 10,
+        "embedder@tgt:t32/c32__cat": 10,
+        "embedder@tgt:t33/c33__bin": 12,
+        "embedder@tgt:t34/c34__E2": 4,
+        "embedder@tgt:t34/c34__E1": 10,
+        "embedder@tgt:t34/c34__E0": 10,
+        "embedder@tgt:t35/c35__cat": 7,
+        "embedder@tgt:t36/c36__cat": 8,
+        "embedder@tgt:t37/c37__cat": 7,
+        "embedder@tgt:t38/c38__E2": 3,
+        "embedder@tgt:t38/c38__E1": 10,
+        "embedder@tgt:t38/c38__E0": 10,
+        "embedder@tgt:t39/c39__cat": 3,
+        "embedder@tgt:t40/c40__cat": 10,
+        "embedder@tgt:t41/c41__cat": 3,
+        "embedder@tgt:t42/c42__cat": 3,
+        "embedder@tgt:t43/c43__cat": 5,
+        "embedder@tgt:t44/c44__cat": 5,
+        "embedder@tgt:t45/c45__cat": 5,
+        "embedder@tgt:t46/c46__cat": 10,
+        "embedder@tgt:t47/c47__cat": 3,
+        "embedder@tgt:t48/c48__nan": 2,
+        "embedder@tgt:t48/c48__E0": 4,
+        "embedder@tgt:t48/c48__E-1": 10,
+        "embedder@tgt:t48/c48__E-2": 10,
+        "embedder@tgt:t49/c49__cat": 4,
+        "embedder@tgt:t50/c50__E2": 3,
+        "embedder@tgt:t50/c50__E1": 10,
+        "embedder@tgt:t50/c50__E0": 10,
+        "embedder@tgt:t51/c51__cat": 3,
+        "embedder@tgt:t52/c52__cat": 3,
+        "embedder@tgt:t53/c53__bin": 12,
+        "embedder@tgt:t54/c54__E2": 2,
+        "embedder@tgt:t54/c54__E1": 10,
+        "embedder@tgt:t54/c54__E0": 10,
+        "embedder@tgt:t55/c55__cat": 3,
+        "embedder@tgt:t56/c56__cat": 4,
+        "embedder@tgt:t57/c57__cat": 10,
+        "embedder@tgt:t58/c58__cat": 5,
+        "embedder@tgt:t59/c59__E0": 7,
+        "embedder@tgt:t59/c59__E-1": 10,
+        "embedder@tgt:t59/c59__E-2": 10,
+        "embedder@tgt:t60/c60__E2": 2,
+        "embedder@tgt:t60/c60__E1": 10,
+        "embedder@tgt:t60/c60__E0": 10,
+        "embedder@tgt:t61/c61__cat": 4,
+        "embedder@tgt:t62/c62__cat": 10,
+        "embedder@tgt:t63/c63__cat": 10,
+        "embedder@tgt:t64/c64__cat": 4,
+        "embedder@tgt:t65/c65__E2": 4,
+        "embedder@tgt:t65/c65__E1": 10,
+        "embedder@tgt:t65/c65__E0": 10,
+        "embedder@tgt:t66/c66__cat": 12,
+        "embedder@tgt:t67/c67__cat": 5,
+        "embedder@tgt:t68/c68__neg": 2,
+        "embedder@tgt:t68/c68__E1": 10,
+        "embedder@tgt:t68/c68__E0": 10,
+        "embedder@tgt:t69/c69__cat": 12,
+        "embedder@tgt:t70/c70__cat": 10,
+        "embedder@tgt:t71/c71__cat": 10,
+        "embedder@tgt:t72/c72__cat": 10,
+        "embedder@tgt:t73/c73__cat": 3,
+        "embedder@tgt:t74/c74__neg": 2,
+        "embedder@tgt:t74/c74__E0": 2,
+        "embedder@tgt:t74/c74__E-1": 10,
+        "embedder@tgt:t74/c74__E-2": 10,
+        "embedder@tgt:t75/c75__neg": 2,
+        "embedder@tgt:t75/c75__E1": 9,
+        "embedder@tgt:t75/c75__E0": 10,
+        "embedder@tgt:t76/c76__cat": 6,
+        "embedder@tgt:t77/c77__E0": 6,
+        "embedder@tgt:t77/c77__E-1": 10,
+        "embedder@tgt:t77/c77__E-2": 10,
+        "embedder@tgt:t78/c78__cat": 3,
+        "embedder@tgt:t79/c79__cat": 10,
+        "column_embedder@tgt:t2/c2": 14,
+        "column_embedder@tgt:t3/c3": 13,
+        "column_embedder@tgt:t7/c7": 13,
+        "column_embedder@tgt:t21/c21": 13,
+        "column_embedder@tgt:t23/c23": 13,
+        "column_embedder@tgt:t27/c27": 13,
+        "column_embedder@tgt:t29/c29": 13,
+        "column_embedder@tgt:t34/c34": 13,
+        "column_embedder@tgt:t38/c38": 13,
+        "column_embedder@tgt:t48/c48": 14,
+        "column_embedder@tgt:t50/c50": 13,
+        "column_embedder@tgt:t54/c54": 13,
+        "column_embedder@tgt:t59/c59": 13,
+        "column_embedder@tgt:t60/c60": 13,
+        "column_embedder@tgt:t65/c65": 13,
+        "column_embedder@tgt:t68/c68": 13,
+        "column_embedder@tgt:t74/c74": 14,
+        "column_embedder@tgt:t75/c75": 13,
+        "column_embedder@tgt:t77/c77": 13,
+        "regressor@tgt:t0/c0__cat": [
+            64
+        ],
+        "regressor@tgt:t1/c1__cat": [
+            48
+        ],
+        "regressor@tgt:t2/c2__nan": [
+            16
+        ],
+        "regressor@tgt:t2/c2__E2": [
+            16
+        ],
+        "regressor@tgt:t2/c2__E1": [
+            32
+        ],
+        "regressor@tgt:t2/c2__E0": [
+            32
+        ],
+        "regressor@tgt:t3/c3__E0": [
+            16
+        ],
+        "regressor@tgt:t3/c3__E-1": [
+            32
+        ],
+        "regressor@tgt:t3/c3__E-2": [
+            32
+        ],
+        "regressor@tgt:t4/c4__cat": [
+            32
+        ],
+        "regressor@tgt:t5/c5__cat": [
+            32
+        ],
+        "regressor@tgt:t6/c6__cat": [
+            16
+        ],
+        "regressor@tgt:t7/c7__E1": [
+            32
+        ],
+        "regressor@tgt:t7/c7__E0": [
+            32
+        ],
+        "regressor@tgt:t7/c7__E-1": [
+            32
+        ],
+        "regressor@tgt:t8/c8__cat": [
+            16
+        ],
+        "regressor@tgt:t9/c9__cat": [
+            16
+        ],
+        "regressor@tgt:t10/c10__cat": [
+            16
+        ],
+        "regressor@tgt:t11/c11__cat": [
+            64
+        ],
+        "regressor@tgt:t12/c12__cat": [
+            48
+        ],
+        "regressor@tgt:t13/c13__cat": [
+            16
+        ],
+        "regressor@tgt:t14/c14__cat": [
+            16
+        ],
+        "regressor@tgt:t15/c15__cat": [
+            16
+        ],
+        "regressor@tgt:t16/c16__cat": [
+            64
+        ],
+        "regressor@tgt:t17/c17__cat": [
+            48
+        ],
+        "regressor@tgt:t18/c18__cat": [
+            32
+        ],
+        "regressor@tgt:t19/c19__cat": [
+            16
+        ],
+        "regressor@tgt:t20/c20__cat": [
+            16
+        ],
+        "regressor@tgt:t21/c21__E2": [
+            16
+        ],
+        "regressor@tgt:t21/c21__E1": [
+            32
+        ],
+        "regressor@tgt:t21/c21__E0": [
+            32
+        ],
+        "regressor@tgt:t22/c22__cat": [
+            48
+        ],
+        "regressor@tgt:t23/c23__E2": [
+            16
+        ],
+        "regressor@tgt:t23/c23__E1": [
+            32
+        ],
+        "regressor@tgt:t23/c23__E0": [
+            32
+        ],
+        "regressor@tgt:t24/c24__cat": [
+            48
+        ],
+        "regressor@tgt:t25/c25__cat": [
+            64
+        ],
+        "regressor@tgt:t26/c26__cat": [
+            16
+        ],
+        "regressor@tgt:t27/c27__E2": [
+            16
+        ],
+        "regressor@tgt:t27/c27__E1": [
+            32
+        ],
+        "regressor@tgt:t27/c27__E0": [
+            32
+        ],
+        "regressor@tgt:t28/c28__cat": [
+            16
+        ],
+        "regressor@tgt:t29/c29__E2": [
+            16
+        ],
+        "regressor@tgt:t29/c29__E1": [
+            32
+        ],
+        "regressor@tgt:t29/c29__E0": [
+            32
+        ],
+        "regressor@tgt:t30/c30__cat": [
+            48
+        ],
+        "regressor@tgt:t31/c31__cat": [
+            64
+        ],
+        "regressor@tgt:t32/c32__cat": [
+            64
+        ],
+        "regressor@tgt:t33/c33__bin": [
+            80
+        ],
+        "regressor@tgt:t34/c34__E2": [
+            16
+        ],
+        "regressor@tgt:t34/c34__E1": [
+            32
+        ],
+        "regressor@tgt:t34/c34__E0": [
+            32
+        ],
+        "regressor@tgt:t35/c35__cat": [
+            32
+        ],
+        "regressor@tgt:t36/c36__cat": [
+            32
+        ],
+        "regressor@tgt:t37/c37__cat": [
+            32
+        ],
+        "regressor@tgt:t38/c38__E2": [
+            16
+        ],
+        "regressor@tgt:t38/c38__E1": [
+            32
+        ],
+        "regressor@tgt:t38/c38__E0": [
+            32
+        ],
+        "regressor@tgt:t39/c39__cat": [
+            16
+        ],
+        "regressor@tgt:t40/c40__cat": [
+            48
+        ],
+        "regressor@tgt:t41/c41__cat": [
+            16
+        ],
+        "regressor@tgt:t42/c42__cat": [
+            16
+        ],
+        "regressor@tgt:t43/c43__cat": [
+            32
+        ],
+        "regressor@tgt:t44/c44__cat": [
+            32
+        ],
+        "regressor@tgt:t45/c45__cat": [
+            32
+        ],
+        "regressor@tgt:t46/c46__cat": [
+            64
+        ],
+        "regressor@tgt:t47/c47__cat": [
+            16
+        ],
+        "regressor@tgt:t48/c48__nan": [
+            16
+        ],
+        "regressor@tgt:t48/c48__E0": [
+            16
+        ],
+        "regressor@tgt:t48/c48__E-1": [
+            32
+        ],
+        "regressor@tgt:t48/c48__E-2": [
+            32
+        ],
+        "regressor@tgt:t49/c49__cat": [
+            16
+        ],
+        "regressor@tgt:t50/c50__E2": [
+            16
+        ],
+        "regressor@tgt:t50/c50__E1": [
+            32
+        ],
+        "regressor@tgt:t50/c50__E0": [
+            32
+        ],
+        "regressor@tgt:t51/c51__cat": [
+            16
+        ],
+        "regressor@tgt:t52/c52__cat": [
+            16
+        ],
+        "regressor@tgt:t53/c53__bin": [
+            80
+        ],
+        "regressor@tgt:t54/c54__E2": [
+            16
+        ],
+        "regressor@tgt:t54/c54__E1": [
+            32
+        ],
+        "regressor@tgt:t54/c54__E0": [
+            32
+        ],
+        "regressor@tgt:t55/c55__cat": [
+            16
+        ],
+        "regressor@tgt:t56/c56__cat": [
+            16
+        ],
+        "regressor@tgt:t57/c57__cat": [
+            32
+        ],
+        "regressor@tgt:t58/c58__cat": [
+            32
+        ],
+        "regressor@tgt:t59/c59__E0": [
+            32
+        ],
+        "regressor@tgt:t59/c59__E-1": [
+            32
+        ],
+        "regressor@tgt:t59/c59__E-2": [
+            32
+        ],
+        "regressor@tgt:t60/c60__E2": [
+            16
+        ],
+        "regressor@tgt:t60/c60__E1": [
+            32
+        ],
+        "regressor@tgt:t60/c60__E0": [
+            32
+        ],
+        "regressor@tgt:t61/c61__cat": [
+            16
+        ],
+        "regressor@tgt:t62/c62__cat": [
+            48
+        ],
+        "regressor@tgt:t63/c63__cat": [
+            64
+        ],
+        "regressor@tgt:t64/c64__cat": [
+            16
+        ],
+        "regressor@tgt:t65/c65__E2": [
+            16
+        ],
+        "regressor@tgt:t65/c65__E1": [
+            32
+        ],
+        "regressor@tgt:t65/c65__E0": [
+            32
+        ],
+        "regressor@tgt:t66/c66__cat": [
+            80
+        ],
+        "regressor@tgt:t67/c67__cat": [
+            32
+        ],
+        "regressor@tgt:t68/c68__neg": [
+            16
+        ],
+        "regressor@tgt:t68/c68__E1": [
+            32
+        ],
+        "regressor@tgt:t68/c68__E0": [
+            32
+        ],
+        "regressor@tgt:t69/c69__cat": [
+            80
+        ],
+        "regressor@tgt:t70/c70__cat": [
+            32
+        ],
+        "regressor@tgt:t71/c71__cat": [
+            64
+        ],
+        "regressor@tgt:t72/c72__cat": [
+            48
+        ],
+        "regressor@tgt:t73/c73__cat": [
+            16
+        ],
+        "regressor@tgt:t74/c74__neg": [
+            16
+        ],
+        "regressor@tgt:t74/c74__E0": [
+            16
+        ],
+        "regressor@tgt:t74/c74__E-1": [
+            32
+        ],
+        "regressor@tgt:t74/c74__E-2": [
+            32
+        ],
+        "regressor@tgt:t75/c75__neg": [
+            16
+        ],
+        "regressor@tgt:t75/c75__E1": [
+            32
+        ],
+        "regressor@tgt:t75/c75__E0": [
+            32
+        ],
+        "regressor@tgt:t76/c76__cat": [
+            32
+        ],
+        "regressor@tgt:t77/c77__E0": [
+            32
+        ],
+        "regressor@tgt:t77/c77__E-1": [
+            32
+        ],
+        "regressor@tgt:t77/c77__E-2": [
+            32
+        ],
+        "regressor@tgt:t78/c78__cat": [
+            16
+        ],
+        "regressor@tgt:t79/c79__cat": [
+            48
+        ]
+    },
+    "enable_flexible_generation": true
+}
